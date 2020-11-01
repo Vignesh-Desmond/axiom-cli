@@ -320,3 +320,4 @@ def YoloV3(size=None, channels=3, anchors=yolo_anchors,
 def weights_download(out='models/yolov3.weights'):
     _ = wget.download('https://pjreddie.com/media/files/yolov3.weights', out='models/yolov3.weights')
 
+weights_download()
