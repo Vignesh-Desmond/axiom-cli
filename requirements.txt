@@ -8,4 +8,4 @@ keras-vggface == 0.6
 Pillow == 7.2.0
 opencv == 4.4.0
 mtcnn == 0.1.0
-Other required dependencies if any
+Other required dependencies
